@@ -19,8 +19,7 @@ The lists of images used (split in training, validation, testing partitions) are
 ## Folder organization
 
 ### csv_files
-It inclused the csv files. The csv files include a list tuples: filename, label.
-
+It inclused the csv files. The csv files MUST BE in this format: filename, label.
 
 ### test
 It includes the scripts to test fully-supervised, weakly-supervised, finetuning models at patch level (TMAZ), core level (TMAZ) and at whole slide image level (TCGA-PRAD).
@@ -29,7 +28,7 @@ It includes the scripts to test fully-supervised, weakly-supervised, finetuning 
 It includes the scripts to train fully-supervised, weakly-supervised, finetuning models.
 
 ### utils
-It includes scripts used to define methods.
+It includes scripts used to extract patches from TMAs/WSIs and scrits to generate the csvs.
 
 
 ## Scripts organization
