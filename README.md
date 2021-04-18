@@ -13,8 +13,8 @@ Two datasets are used for the experiments:
 - [The Cancer Genome Atlas-PRostate ADenocarcinoma (TCGA-PRAD)](https://portal.gdc.cancer.gov/projects/TCGA-PRAD) 
 
 The lists of images used (split in training, validation, testing partitions) are in: 
-- [TMAZ_images](https://github.com/ilmaro8/Semi_Supervised_Learning/tree/main/csv_folder/partitions/)
-- [TCGA_images](https://github.com/ilmaro8/Semi_Supervised_Learning/tree/main/csv_folder/partitions/)
+- [TMAZ_images](https://github.com/ilmaro8/Digital_Pathology_Transfer_Learning/tree/main/csv_folder/partitions/)
+- [TCGA_images](https://github.com/ilmaro8/Digital_Pathology_Transfer_Learning/tree/main/csv_folder/partitions/)
 
 ## Folder organization
 
