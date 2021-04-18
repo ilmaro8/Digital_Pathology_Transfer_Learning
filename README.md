@@ -1,5 +1,4 @@
 # Digital_Pathology_Transfer_Learning
-# Semi_Supervised_Learning
 Implementation of "Combining weakly and strongly supervised learning improves strong supervision in Gleason pattern classification"
 
 If you find this code useful, consider citing the accompanying article:
