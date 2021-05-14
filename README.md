@@ -82,6 +82,12 @@ The repository includes the scripts for training the models (training_scripts), 
 - Create_csv_weakly_annotated_data.py -d. Script to create the csv file with weakly-annotated data.
   * -d: partition (train/valid/test)
 
+## Reference
+If you find this repository useful in your research, please cite:
+
+[1] Otálora, S., Marini, N., Müller, H., & Atzori, M. (2021). Combining weakly and strongly supervised learning improves strong supervision in Gleason pattern classification. BMC Medical Imaging, 21(1), 1-14.
+
+Paper link: https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-021-00609-0
 
 ## Acknoledgements
 This project has received funding from the EuropeanUnion’s Horizon 2020 research and innovation programme under grant agree-ment No. 825292 [ExaMode](http://www.examode.eu). Infrastructure fromthe SURFsara HPC center was used to train the CNN models in parallel. Otálora thanks Minciencias through the call 756 for PhD studies.
